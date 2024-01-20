@@ -1,7 +1,7 @@
 # We strongly recommend using the required_providers block to set the
 # Azure Provider source and version being used
 #Adding a comment to update the file
-#Adding comment for new 
+#Removing the comment and adding one for UpdateText
 terraform {
   required_providers {
     azurerm = {
